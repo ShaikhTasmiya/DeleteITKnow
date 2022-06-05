@@ -1,2 +1,2 @@
 This is the final practice of git brancing. 
-      
+hello and in new branch
